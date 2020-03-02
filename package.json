@@ -51,7 +51,7 @@
     "eslint-plugin-react-app": "6.0.3",
     "husky": "4.2.1",
     "lint-staged": "9.5.0",
-    "pkg": "4.3.8",
+    "pkg": "4.4.4",
     "prettier": "1.19.1",
     "react-scripts": "3.2.0"
   },
